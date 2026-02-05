@@ -39,3 +39,12 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+node_modules/
+.expo/
+dist/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# IMPORTANTE: Não sobe a planilha com dados dos clientes
+agendamentos.csv
